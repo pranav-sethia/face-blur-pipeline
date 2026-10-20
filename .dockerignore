@@ -1,0 +1,4 @@
+qa_evidence/
+.DS_Store
+**/__pycache__/
+**/*.pyc

@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Pre-built image export and the heavy QA videos aren't versioned -- the repo is meant to be
+# cloned and `docker build`'t. See qa_evidence/VALIDATION.md for the evidence summary (kept).
+face-blur-image.tar.gz
+qa_evidence/*.mp4

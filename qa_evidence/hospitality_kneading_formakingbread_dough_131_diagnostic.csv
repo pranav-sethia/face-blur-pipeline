@@ -1,0 +1,12 @@
+frame_idx,n_agree,pool,track_id,is_activated,tracklet_len,start_frame,confirmed,x1,y1,x2,y2
+1709,4,tracked,1,False,0,1710,True,208,7,469,194
+1710,4,tracked,1,True,1,1710,True,230,11,479,190
+1711,4,tracked,1,True,2,1710,True,235,13,477,186
+1712,4,tracked,1,True,3,1710,True,240,9,474,176
+1713,4,tracked,1,True,4,1710,True,247,8,465,163
+1714,1,lost,1,True,4,1710,True,251,6,460,155
+1715,0,lost,1,True,4,1710,True,251,2,460,151
+1716,0,lost,1,True,4,1710,True,251,-2,461,146
+1717,0,lost,1,True,4,1710,True,252,-6,461,141
+1718,0,lost,1,True,4,1710,True,252,-11,461,137
+1719,0,lost,1,True,4,1710,True,252,-15,461,132
